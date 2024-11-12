@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="center">A passionate Data Analyst 👨\u200d💻</h3>
-(img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhuv-404-debug&label=Profile%20views&color=0e75b6&style=flat" alt="dhuv-404-debug" /> </p>
 
